@@ -72,4 +72,3 @@ python -m jupyter nbconvert --execute --to notebook --inplace `
 - POS-tagging tổng quát có thể xử lý chưa tốt teencode, tên sản phẩm và câu vừa khen vừa chê.
 - Đây là baseline nghiên cứu, chưa phải model production. Project chưa có monitoring drift, versioning model hay API inference.
 
-

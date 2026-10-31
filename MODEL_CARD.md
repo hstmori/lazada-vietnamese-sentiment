@@ -44,4 +44,3 @@ ROC-AUC khoảng 0,950 cho TF-IDF khi xem NEG là lớp dương. Các con số n
 - Rà soát thủ công một mẫu lỗi có độ tự tin cao.
 - So sánh baseline với một mô hình ngữ cảnh tiếng Việt như PhoBERT.
 
-

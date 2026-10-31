@@ -20,4 +20,3 @@ jobs:
       - name: Validate saved notebook
         run: python scripts/validate_notebook.py
 
-

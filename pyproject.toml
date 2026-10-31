@@ -35,4 +35,3 @@ addopts = "-q"
 pythonpath = ["src"]
 testpaths = ["tests"]
 
-
